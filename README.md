@@ -1,2 +1,2 @@
-# Ci-ncia-da-Computa-o
+# Ciência da Computação
 Códigos e projetos de graduação.
